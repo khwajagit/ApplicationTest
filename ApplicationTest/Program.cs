@@ -11,6 +11,7 @@ namespace ApplicationTest
         static void Main(string[] args)
         {
             Console.WriteLine("hello");
+            Console.WriteLine("hiii...");
         }
     }
 }
